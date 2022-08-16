@@ -1,4 +1,5 @@
 import React from 'react'
+import Home from "../Home"
 
 const Navbar = () => {
   return (
@@ -27,7 +28,7 @@ const Navbar = () => {
 
       <div className="auth-wrapper">
           <div className="auth-inner">
-            <h2>you are not logged in</h2>
+            <Home/>
           </div>
       </div>
     </div>
