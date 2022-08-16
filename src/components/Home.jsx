@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <h2 className="">You are not logged in</h2>
+    <h2>You are not logged in</h2>
   )
 }
 
